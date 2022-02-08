@@ -1,1 +1,486 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"ML",
+      "image":"https://play-lh.googleusercontent.com/jMs3dsfEWhu8mqCjQWOcXS4WPLiHPsY-arA61BehK-whn2XSer9sqj4NhBCVEuyb_Q=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mobile.legends"
+    }
+  ],
 
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BTS",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-485x1024.jpg"
+
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 2,
+      "name_category": "BTS WALLPAPER",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-485x1024.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "BTS",
+      "title":"1",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-For-iPhone-576x1024.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "BTS WALLPAPER",
+      "title": "2",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-For-PC.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "BTS",
+      "title": "3",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-For-Desktop.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "BTS WALLPAPER",
+      "title":"4",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Background-For-iPhone-570x1024.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "BTS",
+      "title": "5",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/HD-BTS-Wallpapers-485x1024.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "BTS WALLPAPER",
+      "title": "6",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-For-Computer-1024x576.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "BTS",
+      "title":"7",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-For-Laptop-1024x683.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "BTS WALLPAPER",
+      "title": "8",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/Wallpaper-of-BTS-576x1024.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "BTS",
+      "title": "9",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-For-Phone-473x1024.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "BTS WALLPAPER",
+      "title":"10",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-boy-with-luv-485x1024.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "BTS",
+      "title": "11",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Background-For-Desktop-1024x576.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "BTS WALLPAPER",
+      "title": "12",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-Backgrounds-1024x576.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "BTS",
+      "title":"13",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-For-Mobile-473x1024.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "BTS WALLPAPER",
+      "title": "14",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-army-485x1024.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "BTS",
+      "title": "15",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/01/bts-Full-HD-Wallpaper-576x1024.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "BTS WALLPAPER",
+      "title":"16",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/01/Bts-2020-485x1024.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "BTS",
+      "title": "17",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/new-BTS-Wallpaper-Images-473x1024.jpg"
+    },
+    {
+      "id": 18,
+      "name_category": "BTS WALLPAPER",
+      "title": "18",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-Full-HD-576x1024.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "BTS",
+      "title":"19",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-all-members-485x1024.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "BTS WALLPAPER",
+      "title": "20",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Background-576x1024.jpg"
+    },
+    {
+      "id": 21,
+      "name_category": "BTS",
+      "title": "21",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Backgrounds-485x1024.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "BTS",
+      "title":"22",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/Backgrounds-BTS-576x1024.jpg"
+    },
+    {
+      "id": 23,
+      "name_category": "BTS",
+      "title": "23",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/Background-BTS-576x1024.jpg"
+    },
+    {
+      "id": 24,
+      "name_category": "BTS",
+      "title": "24",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-HD-Backgrounds-576x1024.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "BTS",
+      "title":"25",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-wallpaper-lockscreen-576x1024.jpg"
+    },
+    {
+      "id": 26,
+      "name_category": "BTS",
+      "title": "26",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Background-For-PC-1024x576.jpg"
+    },
+    {
+      "id": 27,
+      "name_category": "BTS",
+      "title": "27",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-HD-Background-576x1024.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "BTS",
+      "title":"28",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-black-swan-485x1024.jpg"
+    },
+    {
+      "id": 29,
+      "name_category": "BTS",
+      "title": "29",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-black-485x1024.jpg"
+    },
+    {
+      "id": 30,
+      "name_category": "BTS",
+      "title": "30",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-blue-485x1024.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "BTS",
+      "title":"31",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-cute-485x1024.jpg"
+    },
+    {
+      "id": 32,
+      "name_category": "BTS",
+      "title": "32",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-black-background-485x1024.jpg"
+    },
+    {
+      "id": 33,
+      "name_category": "BTS",
+      "title": "33",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-black-and-white-485x1024.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "BTS",
+      "title":"34",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-background-485x1024.jpg"
+    },
+    {
+      "id": 35,
+      "name_category": "BTS",
+      "title": "35",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-anime-577x1024.jpg"
+    },
+    {
+      "id": 36,
+      "name_category": "BTS",
+      "title": "36",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-lockscreen-wallpapers-576x1024.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "BTS",
+      "title":"37",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-2020-485x1024.jpg"
+    },
+    {
+      "id": 38,
+      "name_category": "BTS",
+      "title": "38",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-aesthetic-hd-485x1024.jpg"
+    },
+    {
+      "id": 39,
+      "name_category": "BTS",
+      "title": "39",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-all-members-485x1024.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "BTS",
+      "title":"40",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/bts-wallpaper-android-485x1024.jpg"
+    },
+    {
+      "id": 41,
+      "name_category": "BTS",
+      "title": "41",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-lockscreen-wallpaper-577x1024.jpg"
+    },
+    {
+      "id": 42,
+      "name_category": "BTS",
+      "title": "42",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-homescreen-wallpapers-577x1024.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "BTS",
+      "title":"43",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Images-wallpapers-485x1024.jpg"
+    },
+    {
+      "id": 44,
+      "name_category": "BTS",
+      "title": "44",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Images-wallpaper-485x1024.jpg"
+    },
+    {
+      "id": 45,
+      "name_category": "BTS",
+      "title": "45",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-hd-Wallpapers-485x1024.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "BTS",
+      "title":"46",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/HD-BTS-Wallpaper-485x1024.jpg"
+    },
+    {
+      "id": 47,
+      "name_category": "BTS",
+      "title": "47",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/HD-Wallpaper-of-BTS-485x1024.jpg"
+    },
+    {
+      "id": 48,
+      "name_category": "BTS",
+      "title": "48",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-hd-Wallpaper-485x1024.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "BTS",
+      "title":"49",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/HD-Wallpapers-of-BTS-485x1024.jpg"
+    },
+    {
+      "id": 50,
+      "name_category": "BTS",
+      "title": "50",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpapers-Download-485x1024.jpg"
+    },
+    {
+      "id": 51,
+      "name_category": "BTS",
+      "title": "51",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Images-576x1024.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "BTS",
+      "title":"52",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Images-hd-576x1024.jpg"
+    },
+    {
+      "id": 53,
+      "name_category": "BTS",
+      "title": "53",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/Wallpapers-of-BTS-576x1024.jpg"
+    },
+    {
+      "id": 54,
+      "name_category": "BTS",
+      "title": "54",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpapers-hd-485x1024.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "BTS",
+      "title":"55",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpapers-485x1024.jpg"
+    },
+    {
+      "id": 56,
+      "name_category": "BTS",
+      "title": "56",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/Wallpaper-BTS-485x1024.jpg"
+    },
+    {
+      "id": 57,
+      "name_category": "BTS",
+      "title": "57",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/Wallpapers-BTS-485x1024.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "BTS",
+      "title":"58",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-hd-485x1024.jpg"
+    },
+    {
+      "id": 59,
+      "name_category": "BTS",
+      "title": "59",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Background-For-Phone-518x1024.jpg"
+    },
+    {
+      "id": 60,
+      "name_category": "BTS",
+      "title": "60",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Background-Wallpaper-576x1024.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "BTS",
+      "title":"61",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-Background-1-724x1024.jpg"
+    },
+    {
+      "id": 62,
+      "name_category": "BTS",
+      "title": "62",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-For-Android-576x1024.jpg"
+    },
+    {
+      "id": 63,
+      "name_category": "BTS",
+      "title": "63",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-Images-576x1024.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "BTS",
+      "title":"64",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-Photos-577x1024.jpg"
+    },
+    {
+      "id": 65,
+      "name_category": "BTS",
+      "title": "65",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-Pictures-576x1024.jpg"
+    },
+    {
+      "id": 66,
+      "name_category": "BTS",
+      "title": "66",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-6-773x1024.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "BTS",
+      "title":"67",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-7.jpg"
+    },
+    {
+      "id": 68,
+      "name_category": "BTS",
+      "title": "68",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-8-1024x683.jpg"
+    },
+    {
+      "id": 69,
+      "name_category": "BTS",
+      "title": "69",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-9-1024x693.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "BTS",
+      "title":"70",
+      "image":"http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-1-679x1024.jpg"
+    },
+    {
+      "id": 71,
+      "name_category": "BTS",
+      "title": "71",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-2-680x1024.jpg"
+    },
+    {
+      "id": 72,
+      "name_category": "BTS",
+      "title": "72",
+      "image": "http://m.gettywallpapers.com/wp-content/uploads/2020/02/BTS-Wallpaper-3-576x1024.jpg"
+    }
+  ]
+}
